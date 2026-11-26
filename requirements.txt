@@ -1,0 +1,8 @@
+aiogram>=3.15,<4
+SQLAlchemy>=2.0,<2.1
+aiosqlite>=0.20,<1
+APScheduler>=3.10,<4
+python-dotenv>=1,<2
+tzdata>=2025.1
+pytest>=8,<10
+pytest-asyncio>=0.25,<2
